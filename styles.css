@@ -16,9 +16,9 @@ color: var(--branco-princiapal);
 }
 
 .principal {
-background-image: url("img/fundo.png");
+background-image: url("img/imagem-de-papel-de-parede-de-fundo-de-frutas-com-mistura-de-fotos_665888-2901.png");
 background-repeat:no-repeat;
-background-size:cover
+background-size: 2000px;
 
 }
 .container{
